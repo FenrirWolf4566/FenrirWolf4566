@@ -5,7 +5,7 @@
   FenrirWolf4566
 
   <a href="www.linkedin.com/in/bdezordo">
-    <img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://www.root-me.org/FenrirWolf4566">
     <img src="https://img.shields.io/badge/RootMe-white?style=for-the-badge&logo=rootme&logoColor=black" alt="RootMe Badge"/>
