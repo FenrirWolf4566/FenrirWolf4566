@@ -1,6 +1,6 @@
 <html>
 <h1 align="center">
-  <img src="src/dragon.png" width="200" height="200" />
+  <img src="src/fenrirwolf4566_alone.png" width="200" height="200" />
 
   FenrirWolf4566
 
